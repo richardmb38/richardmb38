@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Richard
 
-## Getting Started
+Hi, I'm Richard, a senior full-stack and AI engineer. I build backends, web applications, and AI systems for teams who need the result to still work at 3am, software built to survive contact with production, not just launch.
 
-First, run the development server:
+A decade building systems that carry money, health records, and legal deadlines, where being wrong is expensive. I own the full lifecycle: architecture, delivery, deployment, and production support, and I've been on call for the systems I built.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What I build
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **.NET backends:** ASP.NET Core, EF Core, REST and gRPC, background workers, event-driven workflows.
+- **Next.js applications:** React, TypeScript, server rendering, dense dashboards and admin portals.
+- **AI in production:** Python, FastAPI, retrieval, embeddings, and agents, backed by evals, tracing, and a cost ceiling.
+- **Architecture and delivery:** system design, database design, integrations, CI/CD, cloud deployment, monitoring, production support.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Selected work
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Athlete performance analytics** (sports technology): an ingest pipeline for GPS, video-tag, and wearable feeds, plus a dashboard for squad load and per-player trend.
+- **Automated carrier invoice auditing** (telecom expense): rate parsing and line-item extraction with an exception queue, so only ambiguous items reach a human.
+- **Accounts payable document intelligence** (fintech): layout-agnostic invoice extraction with an evaluation harness gating every model change.
+- **Resident care platform under HIPAA** (senior living): role-based access down to the field and a zero-downtime migration off a legacy schema.
+- **Lien resolution platform** (legal technology): a workflow engine with explicit case states, deadlines, and traceable document generation.
 
-## Learn More
+<!-- TODO: swap in the portfolio site URL once it has a production domain -->
+Full write-ups: portfolio site (link coming soon)
 
-To learn more about Next.js, take a look at the following resources:
+## Get in touch
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+richardmb_1981@outlook.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Send the problem, the stack, and the deadline. Expect a straight answer on fit within a day, including if the answer is no.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<!-- TODO: confirm quarter, then uncomment and adjust:
+Available for one new project starting Q1 2026.
+-->
