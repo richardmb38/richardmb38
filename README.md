@@ -1,12 +1,24 @@
 # Richard
 
-Hi, I'm Richard, a senior full-stack and AI engineer. I build backends, web applications, and AI systems for teams who need the result to still work at 3am, software built to survive contact with production, not just launch.
+Senior full-stack and AI engineer. Backends, web applications, and AI systems built to survive contact with production.
 
-A decade building systems that carry money, health records, and legal deadlines, where being wrong is expensive. I own the full lifecycle: architecture, delivery, deployment, and production support, and I've been on call for the systems I built.
+## Stack
 
-## What I build
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 
-- **.NET backends:** ASP.NET Core, EF Core, REST and gRPC, background workers, event-driven workflows.
-- **Next.js applications:** React, TypeScript, server rendering, dense dashboards and admin portals.
-- **AI in production:** Python, FastAPI, retrieval, embeddings, and agents, backed by evals, tracing, and a cost ceiling.
-- **Architecture and delivery:** system design, database design, integrations, CI/CD, cloud deployment, monitoring, production support.
+## Contact
+
+<!-- TODO: swap "#" for the live portfolio domain once it's deployed -->
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:richardmb_1981@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16181B?style=flat-square)](#)
