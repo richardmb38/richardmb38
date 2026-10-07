@@ -1,7 +1,3 @@
-# Richard
-
-Senior full-stack and AI engineer. Backends, web applications, and AI systems built to survive contact with production.
-
 ## Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
