@@ -12,9 +12,3 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-
-## Contact
-
-<!-- TODO: swap "#" for the live portfolio domain once it's deployed -->
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:richardmb_1981@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-16181B?style=flat-square)](#)
